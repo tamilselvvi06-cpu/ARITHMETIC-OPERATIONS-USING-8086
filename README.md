@@ -1,4 +1,4 @@
-# Arithmetic-operation-using-8086
+
 # 8086 Assembly Language Programs for Arithmetic Operations
 
 ## AIM
@@ -61,11 +61,14 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1222" height="879" alt="Screenshot 2025-09-14 175319" src="https://github.com/user-attachments/assets/652be0ef-21d7-4cd1-b283-f514b4002abb" />
 
----
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-14 at 17 47 09_d86349e5](https://github.com/user-attachments/assets/f85ab38e-89d2-4d7f-8e10-642026f8aba3)
+![WhatsApp Image 2025-09-14 at 17 47 10_7fdf72ac](https://github.com/user-attachments/assets/5ebf633a-c767-4a04-a8db-8d711416e34d)
+
+
 
 ## 2. SUBTRACTION
 
@@ -112,12 +115,14 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
-
----
+<img width="1065" height="782" alt="Screenshot 2025-09-14 175330" src="https://github.com/user-attachments/assets/439412b5-86ef-4c1d-ad01-4dcd14a3d576" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="687" height="399" alt="Screenshot 2025-09-14 174759" src="https://github.com/user-attachments/assets/70ef06db-72cb-4b36-9fbc-aff6325836f2" />
+<img width="784" height="481" alt="Screenshot 2025-09-14 174809" src="https://github.com/user-attachments/assets/064e7c24-18d5-440c-9ac3-bfef8f809c08" />
+
+
 
 ## 3. MULTIPLICATION
 
@@ -161,11 +166,14 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="696" height="913" alt="Screenshot 2025-09-14 175404" src="https://github.com/user-attachments/assets/b131e3a9-49db-402a-b7d5-8f6bcb56ad91" />
 
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="769" height="453" alt="Screenshot 2025-09-14 174849" src="https://github.com/user-attachments/assets/18c545c5-3aeb-43a7-8f5b-1754822459db" />
+<img width="786" height="522" alt="Screenshot 2025-09-14 174909" src="https://github.com/user-attachments/assets/0d5157fb-be3f-45e9-8027-52827736211f" />
+
+
 
 ## 4. DIVISION
 
@@ -205,11 +213,18 @@ END
 |                         |                          |
 
 #### Manual Calculations
+<img width="1137" height="873" alt="Screenshot 2025-09-14 175414" src="https://github.com/user-attachments/assets/e6474f9a-676d-480c-951e-e1ed9d6bd1a1" />
 
-(Add your calculation here)
 
----
+
 ## OUTPUT FROM MASM SOFTWARE
+<img width="782" height="445" alt="Screenshot 2025-09-14 175000" src="https://github.com/user-attachments/assets/11416e8d-a5c8-4419-83ad-6a1e7bd5462c" />
+
+<img width="796" height="519" alt="Screenshot 2025-09-14 175019" src="https://github.com/user-attachments/assets/e887d635-4ce6-4a88-beba-3b7e6e9b143f" />
+
+
+
+
 
 
 
